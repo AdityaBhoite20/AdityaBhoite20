@@ -102,26 +102,53 @@ class Aditya:
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Results at a Glance
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaBhoite20&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhoite20&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdityaBhoite20&theme=tokyonight&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h2>25,000+</h2>
+      <sub>US households analysed<br>in Financial Resilience project</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>0.799 → 0.867</h2>
+      <sub>Logistic Regression ROC-AUC<br>after feature engineering</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>8,900+</h2>
+      <sub>records processed into<br>12 PostgreSQL tables</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>51</h2>
+      <sub>test questions used to<br>evaluate DevResolve (RAG)</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🐍 My Contribution Snake
+## 🔨 Currently Building
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaBhoite20/AdityaBhoite20/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
+- 🛡️ **Fraud Detection with MLOps:** experiment tracking with MLflow, an API with FastAPI, and Docker
+- 📉 **Financial Forecasting Engine:** forecasting pipeline with Bull, Base and Bear scenarios
+- 📚 Getting better at **NLP and cloud deployment**
 
 ---
+
+## 🧭 How I Work
+
+| Step | What I focus on |
+|------|-----------------|
+| 🧹 **Clean the data** | Fix missing values, check sources, make the data trustworthy |
+| 🔍 **Understand it** | EDA first, so I know what question I am answering |
+| 🤖 **Model it simply** | Start with a simple baseline, then compare against stronger models |
+| 📦 **Ship it** | Streamlit apps, Docker and AWS so others can actually use it |
+
+---
+
+## 📌 Where to Look First
+
+If you only have 2 minutes, start with **[DevResolve](https://github.com/AdityaBhoite20/DevResolve)** (RAG system) and **[Financial Resilience Intelligence](https://github.com/AdityaBhoite20/Financial-Resilience-Intelligence)** (ML + analysis). Each one has a README that explains the problem, the approach and the results.
 
 ## 🤝 Let's Connect
 
