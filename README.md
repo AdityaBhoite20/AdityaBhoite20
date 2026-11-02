@@ -81,7 +81,7 @@ class Aditya:
       </ul>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /><br><br>
-      <a href="https://github.com/AdityaBhoite20/Financial-Resilience-Intelligence">🔗 View Project</a>
+      <a href="https://github.com/AdityaBhoite20/fintech-resilience-shed">🔗 View Project</a>
     </td>
   </tr>
   <tr>
@@ -95,17 +95,7 @@ class Aditya:
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" /><br><br>
-      <a href="https://github.com/AdityaBhoite20/US-Labor-Market-Analytics">🔗 View Project</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌿 Plant Disease Detection</h3>
-      <p>CNN model built during my ML internship at <b>COE AI Lab, VJTI Mumbai</b>.</p>
-      <ul>
-        <li>~90% training and ~88% validation accuracy</li>
-        <li>Focus on lightweight models for farming use</li>
-      </ul>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+      <a href="https://github.com/AdityaBhoite20/US-Labor-Market-Analysis">🔗 View Project</a>
     </td>
   </tr>
 </table>
