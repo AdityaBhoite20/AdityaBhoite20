@@ -1,16 +1,148 @@
-## Hi there 👋
+<!-- Animated colourful header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aditya%20Bhoite&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20GenAI&descAlignY=60&descSize=20" width="100%" />
 
-<!--
-**AdityaBhoite20/AdityaBhoite20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+%F0%9F%91%8B;Fresher+Data+Scientist+%F0%9F%93%8A;I+build+RAG+systems+and+ML+models+%F0%9F%A4%96;I+turn+messy+data+into+clear+answers+%E2%9C%A8" alt="Typing animation" />
+</div>
 
-Here are some ideas to get you started:
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdityaBhoite20&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat&logo=target" />
+  <img src="https://img.shields.io/badge/Based%20in-Mumbai%2C%20India-orange?style=flat&logo=googlemaps&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+```python
+class Aditya:
+    def __init__(self):
+        self.role      = "Fresher Data Scientist"
+        self.education = "B.Tech, Electronics & Computer Science (CGPA 8.87)"
+        self.college   = "Vidyalankar Institute of Technology, Mumbai"
+        self.focus     = ["Machine Learning", "RAG & GenAI", "Data Pipelines"]
+        self.loves     = ["Clean data", "Real-world datasets", "Learning new tools"]
+
+    def current_goal(self):
+        return "Land a data role where my work helps real decisions 🚀"
+```
+
+- 🔭 Building projects around **RAG, finance data and labor market analytics**
+- 🌱 Currently learning more about **NLP, MLOps and cloud tools**
+- 🎯 Interested in **data science, GenAI and data governance** roles
+- 💬 Ask me about **RAG, scikit-learn, ETL pipelines or K-Means**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,sql&perline=8" /><br><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy&perline=8" /><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,docker,aws,git,github,powerbi,colab&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 DevResolve</h3>
+      <p>RAG-based developer troubleshooting system that gives <b>answers with sources</b> from technical documentation.</p>
+      <ul>
+        <li>Hybrid retrieval: Sentence Transformers + BM25</li>
+        <li>Tested on a 51-question evaluation set</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG-blueviolet?style=flat" />
+      <img src="https://img.shields.io/badge/LLM-black?style=flat" /><br><br>
+      <a href="https://github.com/AdityaBhoite20/DevResolve">🔗 View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 Financial Resilience Intelligence</h3>
+      <p>Analysis of <b>25,000+ US households</b> using Federal Reserve survey data.</p>
+      <ul>
+        <li>Logistic Regression ROC-AUC: 0.799 → 0.867</li>
+        <li>K-Means personas + Streamlit app</li>
+      </ul>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /><br><br>
+      <a href="https://github.com/AdityaBhoite20/Financial-Resilience-Intelligence">🔗 View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 US Labor Market Analytics</h3>
+      <p>End-to-end pipeline on employment, wage and <b>AI-exposure</b> trends across 830+ occupations.</p>
+      <ul>
+        <li>ETL with 4 sources into 12 PostgreSQL tables</li>
+        <li>Docker + AWS EC2 + S3 deployment</li>
+      </ul>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" /><br><br>
+      <a href="https://github.com/AdityaBhoite20/US-Labor-Market-Analytics">🔗 View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌿 Plant Disease Detection</h3>
+      <p>CNN model built during my ML internship at <b>COE AI Lab, VJTI Mumbai</b>.</p>
+      <ul>
+        <li>~90% training and ~88% validation accuracy</li>
+        <li>Focus on lightweight models for farming use</li>
+      </ul>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaBhoite20&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhoite20&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AdityaBhoite20&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdityaBhoite20/AdityaBhoite20/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-bhoite20/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bhoiteaditya20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/AdityaBhoite20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <i>"Good data beats fancy models, every time."</i> ⚡
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
