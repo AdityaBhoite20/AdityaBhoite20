@@ -3,7 +3,7 @@
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+%F0%9F%91%8B;Fresher+Data+Scientist+%F0%9F%93%8A;I+build+RAG+systems+and+ML+models+%F0%9F%A4%96;I+turn+messy+data+into+clear+answers+%E2%9C%A8" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Aditya+%F0%9F%91%8B;Fresher+Data+Scientist+%F0%9F%93%8A;Locked+in+on+RAG+and+ML+systems+%F0%9F%A4%96;Turning+messy+data+into+clear+answers%2C+no+cap+%E2%9C%A8" alt="Typing animation" />
 </div>
 
 <!-- Badges -->
@@ -11,6 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=AdityaBhoite20&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat&logo=target" />
   <img src="https://img.shields.io/badge/Based%20in-Mumbai%2C%20India-orange?style=flat&logo=googlemaps&logoColor=white" />
+</p>
+
+<!-- Portfolio button -->
+<p align="center">
+  <a href="https://adityabhoite20.github.io">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Check%20out%20my%20Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -25,15 +32,16 @@ class Aditya:
         self.college   = "Vidyalankar Institute of Technology, Mumbai"
         self.focus     = ["Machine Learning", "RAG & GenAI", "Data Pipelines"]
         self.loves     = ["Clean data", "Real-world datasets", "Learning new tools"]
+        self.vibe      = "Curious, consistent and always leveling up"
 
     def current_goal(self):
         return "Land a data role where my work helps real decisions 🚀"
 ```
 
 - 🔭 Building projects around **RAG, finance data and labor market analytics**
-- 🌱 Currently learning more about **NLP, MLOps and cloud tools**
+- 🌱 Lowkey obsessed with learning **NLP, MLOps and cloud tools**
 - 🎯 Interested in **data science, GenAI and data governance** roles
-- 💬 Ask me about **RAG, scikit-learn, ETL pipelines or K-Means**
+- 💬 Ask me about **RAG, scikit-learn, ETL pipelines**
 
 ---
 
@@ -125,13 +133,15 @@ class Aditya:
   </tr>
 </table>
 
+<p align="center"><i>The numbers don't lie 📊</i></p>
+
 ---
 
-## 🔨 Currently Building
+## 🍳 Currently Cooking
 
 - 🛡️ **Fraud Detection with MLOps:** experiment tracking with MLflow, an API with FastAPI, and Docker
 - 📉 **Financial Forecasting Engine:** forecasting pipeline with Bull, Base and Bear scenarios
-- 📚 Getting better at **NLP and cloud deployment**
+- 📚 Leveling up in **NLP and cloud deployment**
 
 ---
 
@@ -146,13 +156,30 @@ class Aditya:
 
 ---
 
-## 📌 Where to Look First
+## 🌐 Portfolio
 
-If you only have 2 minutes, start with **[DevResolve](https://github.com/AdityaBhoite20/DevResolve)** (RAG system) and **[Financial Resilience Intelligence](https://github.com/AdityaBhoite20/Financial-Resilience-Intelligence)** (ML + analysis). Each one has a README that explains the problem, the approach and the results.
+Want the full story, projects and all? Come through 👇
+
+<p align="center">
+  <a href="https://adityabhoite20.github.io">
+    <img src="https://img.shields.io/badge/adityabhoite20.github.io-Visit%20Now-FF5722?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⏱️ Short on Time? Start Here
+
+Start with **[DevResolve](https://github.com/AdityaBhoite20/DevResolve)** (RAG system) and **[Financial Resilience Intelligence](https://github.com/AdityaBhoite20/fintech-resilience-shed)** (ML + analysis). Each one has a README that explains the problem, the approach and the results.
+
+---
 
 ## 🤝 Let's Connect
 
+Open to opportunities and good conversations. Hit me up 👇
+
 <p align="center">
+  <a href="https://adityabhoite20.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aditya-bhoite20/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bhoiteaditya20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/AdityaBhoite20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
