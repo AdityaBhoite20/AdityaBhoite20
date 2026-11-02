@@ -110,33 +110,6 @@ class Aditya:
 
 ---
 
-## 📈 Results at a Glance
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h2>25,000+</h2>
-      <sub>US households analysed<br>in Financial Resilience project</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>0.799 → 0.867</h2>
-      <sub>Logistic Regression ROC-AUC<br>after feature engineering</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>8,900+</h2>
-      <sub>records processed into<br>12 PostgreSQL tables</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>51</h2>
-      <sub>test questions used to<br>evaluate DevResolve (RAG)</sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><i>The numbers don't lie 📊</i></p>
-
----
-
 ## 🍳 Currently Cooking
 
 - 🛡️ **Fraud Detection with MLOps:** experiment tracking with MLflow, an API with FastAPI, and Docker
